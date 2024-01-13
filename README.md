@@ -1,3 +1,3 @@
-# flutter_application_1
+# Chat App
 
-A new Flutter project.
+A chat app with bloc, freezed and firebase.
